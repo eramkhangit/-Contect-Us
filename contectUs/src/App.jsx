@@ -10,7 +10,6 @@ function App() {
 
   return (
     <>
-    <h1 className='text-xl'>Contact Page</h1>
       <Navigation/> 
       <ContactHeader/>
       <ContactForm/>
